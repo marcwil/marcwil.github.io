@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "FHE1: Introduction to practical homomorphic encryption"
 date:   2019-03-15 14:27:04 +0100
 categories: jekyll update
