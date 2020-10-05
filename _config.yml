@@ -17,8 +17,8 @@ title: Marcus Wilhelm
 email: mail weirdsymbol marcuswilhelm roundsymbol de
 description: >- # this means to ignore newlines until "baseurl:"
     Blog by Marcus Wilhelm.
-    Student in computer science.
-    Interested in Security, Algorithms and Theory, Machine Learning.
+    PhD Student in theoretical computer science.
+    Interested in Algorithms, (Parametrized) Complexity, and hard problems that sometimes are easy.Also peripherally interested in Security, Machine Learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
