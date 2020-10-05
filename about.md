@@ -7,7 +7,7 @@ permalink: /about/
 I am Marcus and I am a PhD student in Theoretical Computer Science at Karlsruhe Institute of Technology (KIT), supervised by Thomas Bläsius.
 
 I am interested in algorithms (mostly for hard problems), (parametrized) complexity, and understanding why hard problems sometimes are easy.
-Interested in Algorithms, (Parametrized) Complexity, and hard problems that sometimes are easy.Also peripherally interested in Security, Machine Learning.
+Also peripherally interested in Crypto and Machine Learning.
     
 
 In my free time I like cycling, bouldering and making music.
